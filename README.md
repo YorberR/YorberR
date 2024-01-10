@@ -20,7 +20,7 @@ Some of the projects:
 ## 🏅 Tecnologias
 |Programming languages|Frontend|Backend|
 |---|---|---|
-|<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> |<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-15?style=flat-square&logo=python&color=yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=flat-square&logo=laravel&color=white">|
+|<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-15?style=flat-square&logo=python&color=yellow"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Static Badge" src="https://img.shields.io/badge/PHP-15?style=flat-square&logo=PHP&color=blue"> | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> | <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=flat-square&logo=laravel&color=white"> <img alt="Static Badge" src="https://img.shields.io/badge/REACT-15?style=flat-square&logo=React&color=black">|
 
 |RDBMS|Dev Tools|
 |---|---|
@@ -28,15 +28,15 @@ Some of the projects:
 
 ## Mis estadísticas
 
-| *GitHub Stats* | *Programming Languages* |
+| *Programming Languages* |
 ---|---  
-| ![Yorber Estadisticas](https://github-readme-stats.vercel.app/api?username=YorberR&show_icons=true&theme=tokyonight) |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
 
 ## 📡Contactame:
 
 - [LinkedIn](https://www.linkedin.com/in/yorberrojas/),
-- [Instagram](hhttps://www.instagram.com/yorberrojas/).
+- [Instagram](https://www.instagram.com/yorberrojas/).
 
 ## Reucursos
 Escríbeme un correo electrónico
-- Mi correo: <a style="margin-left: 8px;" href="mailto:yorberrojas@gmail.com">yorberrojas@gmail.co</a>
+- Mi correo: <a style="margin-left: 8px;" href="mailto:yorberrojas@gmail.com">yorberrojas@gmail.com</a>
