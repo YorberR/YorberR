@@ -1,7 +1,8 @@
 ### Hello 👋
 
 ## About me
-I am a web developer who uses languages like JavaScript, PHP, and Python to create web applications with frameworks like React and Laravel. I use development methodologies such as Github and SCRUM.
+
+Full-stack developer who transforms operational needs into efficient software solutions. I am proficient in modern frameworks such as React, Laravel, Fast-API, and Node.js, with strong knowledge of Git and the terminal.
 
 ## 🚀 My projects
 
@@ -10,8 +11,10 @@ I really enjoy investing my time in technology projects and programming, I love 
 Some of the projects:
 
 - [Node Api / API made with express and sequelize ](https://github.com/YorberR/Node-Api)
-- [Store / React Project using an API ](https://github.com/YorberR/Store)
+- [MembershipAPI / API made with FastAPI and sequelize ](https://github.com/YorberR/MembershipAPI)
 - [List of Todo / React project](https://github.comlist-of-todo)
+- [Ecommerce / Laravel project with Postgres](https://github.com/YorberR/MembershipAPI)
+- [Store / React Project using an API ](https://github.com/YorberR/Store)
 - [Inventory / PHP project using MYSQL](https://github.com/YorberR/inventory)
 - [Customer Management System / CRUD in python](https://github.com/YorberR/Customer_Management_System)
 - [Simple Game / Python project](https://github.com/YorberR/Simple_games)
@@ -23,18 +26,19 @@ Some of the projects:
 
 |Backend|RDBMS|Dev Tools|
 |---|---|---|
- <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=for-the-badge&logo=laravel&color=white"> <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-15?style=for-the-badge&logo=Node.js&color=black"> |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/SQLite-7?style=for-the-badge&logo=SQLite&color=blue"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DOCKER](https://img.shields.io/badge/Docker-18?style=for-the-badge&logo=docker&color=white)|
+ <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=for-the-badge&logo=laravel&color=white"> <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-15?style=for-the-badge&logo=Node.js&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-15?style=for-the-badge&logo=FastAPI&color=white"> |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/SQLite-7?style=for-the-badge&logo=SQLite&color=blue"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DOCKER](https://img.shields.io/badge/Docker-18?style=for-the-badge&logo=docker&color=white)|
 
 ## My statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## 📡Contact me:
 
-- [LinkedIn](https://www.linkedin.com/in/yorberrojas/),
+- [Portafolio](https://portafolio-yorberrs-projects.vercel.app/).
+- [LinkedIn](https://www.linkedin.com/in/yorberrojas/).
 - [Instagram](https://www.instagram.com/yorberrojas/).
 
 ## Resources
 Write me an email
 - My email: <a style="margin-left: 8px;" href="mailto:yorberrojas@gmail.com">yorberrojas@gmail.com</a>
-- My CV: <a style="margin-left: 8px;" target="_blank" href="https://drive.google.com/file/d/1sjdlfsix1Jj_6SFrUXGvGppW--MGMhvg/view?usp=drive_link">Curriculum</a>
+- My CV: <a style="margin-left: 8px;" target="_blank" href="https://drive.google.com/file/d/1GRdGQzdmGCv2OuLCKvnhvjqIgRLI8cZC/view?usp=drive_link">Curriculum</a>
