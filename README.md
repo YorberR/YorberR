@@ -12,8 +12,8 @@ Some of the projects:
 
 - [Node Api / API made with express and sequelize ](https://github.com/YorberR/Node-Api)
 - [MembershipAPI / API made with FastAPI and sequelize ](https://github.com/YorberR/MembershipAPI)
-- [List of Todo / React project](https://github.comlist-of-todo)
-- [Ecommerce / Laravel project with Postgres](https://github.com/YorberR/MembershipAPI)
+- [List of Todo / React project](https://github.com/YorberR/list-of-todo)
+- [Ecommerce / Laravel project with Postgres](https://github.com/YorberR/Ecommerce)
 - [Store / React Project using an API ](https://github.com/YorberR/Store)
 - [Inventory / PHP project using MYSQL](https://github.com/YorberR/inventory)
 - [Customer Management System / CRUD in python](https://github.com/YorberR/Customer_Management_System)
@@ -28,9 +28,9 @@ Some of the projects:
 |---|---|---|
  <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=for-the-badge&logo=laravel&color=white"> <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-15?style=for-the-badge&logo=Node.js&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-15?style=for-the-badge&logo=FastAPI&color=white"> |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/SQLite-7?style=for-the-badge&logo=SQLite&color=blue"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DOCKER](https://img.shields.io/badge/Docker-18?style=for-the-badge&logo=docker&color=white)|
 
-## My statistics
+<!-- ## My statistics -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ## 📡Contact me:
 
