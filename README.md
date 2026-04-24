@@ -1,44 +1,81 @@
-### Hello 👋
+# Hi there, I'm Yorber Rojas 👋
 
-## About me
+### Software Engineer | System Architecture | Documentation Strategist
 
-Full-stack developer who transforms operational needs into efficient software solutions. I am proficient in modern frameworks such as React, Laravel, Fast-API, and Node.js, with strong knowledge of Git and the terminal.
+I am a Software Engineer dedicated to bridging the gap between complex code and clear, actionable communication. My core philosophy is **"Documentation as a First-Class Citizen"**: I don't just build scalable systems; I engineer the documentation that makes them maintainable, auditable, and easy to scale.
 
-## 🚀 My projects
+- 🏗️ **Architectural Focus:** Designing high-impact systems using Next.js, Laravel, and Microservices.
+- 📖 **Documentation Specialist:** I specialize in building interactive "Developer Hubs" that explain the "why" and "how" behind the code, using diagrams and technical deep-dives.
+- 🚀 **Currently looking for new opportunities** to solve complex engineering problems and lead documentation-driven development workflows.
 
-I really enjoy investing my time in technology projects and programming, I love working on projects to enhance my technical skills and continue learning about new technologies. Here are some of my best projects.
+---
 
-Some of the projects:
+## 🏛️ The Developer Hub: Where the Engineering happens
 
-- [Node Api / API made with express and sequelize ](https://github.com/YorberR/Node-Api)
-- [MembershipAPI / API made with FastAPI and sequelize ](https://github.com/YorberR/MembershipAPI)
-- [List of Todo / React project](https://github.com/YorberR/list-of-todo)
-- [Ecommerce / Laravel project with Postgres](https://github.com/YorberR/Ecommerce)
-- [Store / React Project using an API ](https://github.com/YorberR/Store)
-- [Inventory / PHP project using MYSQL](https://github.com/YorberR/inventory)
-- [Customer Management System / CRUD in python](https://github.com/YorberR/Customer_Management_System)
-- [Simple Game / Python project](https://github.com/YorberR/Simple_games)
+I maintain a **Case Study & Documentation Portal** where I showcase the full lifecycle of my projects. This is where I go beyond the code to explain architectural decisions.
 
-## 🏅 Tecnologias
-|Programming languages|Frontend|
-|---|---|
-|<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-15?style=for-the-badge&logo=python&color=yellow"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img alt="Static Badge" src="https://img.shields.io/badge/PHP-15?style=for-the-badge&logo=PHP&color=blue"> | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |
+### [👉 Explore my Interactive Developer Hub](https://yorber.mintlify.app/)
 
-|Backend|RDBMS|Dev Tools|
-|---|---|---|
- <img alt="Static Badge" src="https://img.shields.io/badge/LARAVEL-15?style=for-the-badge&logo=laravel&color=white"> <img alt="Static Badge" src="https://img.shields.io/badge/NODE.JS-15?style=for-the-badge&logo=Node.js&color=black"> <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-15?style=for-the-badge&logo=FastAPI&color=white"> |![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <img src="https://img.shields.io/badge/SQLite-7?style=for-the-badge&logo=SQLite&color=blue"/><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>|<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![DOCKER](https://img.shields.io/badge/Docker-18?style=for-the-badge&logo=docker&color=white)|
+**What you'll find there:**
+* **📱 Capital Flux:** The architecture of an offline-first mobile wallet for hyperinflationary economies.
+* **⚙️ Social Microservices:** A deep dive into containerized API Gateways, service communication, and scalability.
+* **🏛️ RISIN & MINPITECH:** Engineering massive-scale government ERPs and demographic registries.
 
-<!-- ## My statistics -->
+---
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YorberR&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  -->
+## 🚀 Featured Projects
 
-## 📡Contact me:
+### [Social Microservices API](https://yorber.mintlify.app/Microservices/architecture)
+**Backend Infrastructure & Scalability**
+* **The Challenge:** Building a decoupled system capable of handling high traffic through independent services.
+* **The Tech:** Node.js, TypeScript, Docker, Redis, and PostgreSQL.
+* **Key Engineering:** Implementation of an **API Gateway**, container orchestration with Docker, and standardized service-to-service communication.
+* [Read the Architectural Review →](https://yorber.mintlify.app/Microservices/architecture)
 
-- [Portafolio](https://portafolio-yorberrs-projects.vercel.app/).
-- [LinkedIn](https://www.linkedin.com/in/yorberrojas/).
-- [Instagram](https://www.instagram.com/yorberrojas/).
+### [Capital Flux — Digital Wallet](https://yorber.mintlify.app/capital-flux/introduction)
+**Mobile Engineering & Resilient Systems**
+* **The Challenge:** Financial tracking in hyperinflationary environments with zero connectivity.
+* **Key Engineering:** Sync Engine (Offline-first), Multi-source Rate Adapter, and Biometric Security.
+* [Read the Documentation →](https://yorber.mintlify.app/capital-flux/introduction)
 
-## Resources
-Write me an email
-- My email: <a style="margin-left: 8px;" href="mailto:yorberrojas@gmail.com">yorberrojas@gmail.com</a>
-- My CV: <a style="margin-left: 8px;" target="_blank" href="https://drive.google.com/file/d/1GRdGQzdmGCv2OuLCKvnhvjqIgRLI8cZC/view?usp=drive_link">Curriculum</a>
+---
+<details>
+<summary>📂 View other open-source projects (Learning & Early Work)</summary>
+
+- [Node API with Express & Sequelize](https://github.com/YorberR/Node-Api)
+- [Membership API with FastAPI](https://github.com/YorberR/MembershipAPI)
+- [Modern Task Manager (React)](https://github.com/YorberR/Modern-task-manager)
+- [Python Arcade
+ (Streamlit)](https://github.com/YorberR/Python_Arcade)
+
+</details>
+
+---
+
+## 💻 Tech Stack & Professional Arsenal
+
+**Languages & Core:**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Frontend & Web Excellence (My Portfolio is built with Next.js):**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+
+**Backend & Architecture:**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> 
+
+
+**Database & Cloud:**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-006399?style=for-the-badge&logo=mysql&logoColor=white" /> <!--  <img src="https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=MongoDB&logoColor=green" /> -->
+
+---
+
+## 📡 Contact me...
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/yorberrojas/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge)](https://www.yorberrojas.me/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:yorberrojas@gmail.com)
